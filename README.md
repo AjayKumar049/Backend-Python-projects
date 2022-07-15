@@ -22,3 +22,10 @@
 
 
 ![mongodb](https://user-images.githubusercontent.com/92783730/177109280-e57d652c-161f-4970-8373-6e8a8ce6ca22.jpg)
+
+Project3- Django Train-TimingsApp
+
+#Output
+
+
+![1](https://user-images.githubusercontent.com/92783730/179185752-05dc17d0-8609-4820-ac48-958111fb9a2e.jpg)
